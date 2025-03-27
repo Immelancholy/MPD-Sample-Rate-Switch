@@ -11,4 +11,4 @@ e.g on hyprland with UWSM I use.
 exec-once = "uwsm app -- mpdchck.sh"
 ```
 and then it just does its thing.
-if not running hyprland with UWSM you could make a systemd service to run this script and that'll have the same effect.
+If not running hyprland with UWSM you could make a systemd service to run this script and that'll have the same effect.
